@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Harry Potter",
+    "author": "Mutia",
+    "year": "2025",
+    "genre": "Romance",
+    "borrowed": "No"
+  },
+  {
+    "title": "Attack of Titan",
+    "author": "Yamada",
+    "year": "2023",
+    "genre": "Comedy",
+    "borrowed": "Yes"
+  }
+]
