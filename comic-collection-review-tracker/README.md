@@ -44,4 +44,4 @@ Follow the on-screen instructions to manage your comic collection and reviews.
 
 ## Demo
 
-For a demonstration of the application, please visit the following link: [Demo Video]
+For a demonstration of the application, please visit the following link: https://www.youtube.com/watch?v=lnMv857SaKE&feature=youtu.be
